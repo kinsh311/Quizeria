@@ -1,0 +1,53 @@
+
+
+
+
+td
+{
+display: block;
+border-radius: 20px;
+box-shadow: 2px 2px 15px brown;
+color: white;
+
+padding: 20px;
+width: 100px;
+cursor: pointer;
+margin: 5px;
+    
+}	
+#outerDiv
+{ 
+
+    
+    position: fixed;
+    top:200;
+    left:230;
+    
+    
+    
+
+    
+}
+#topHeader
+{
+	color:gold;
+	font-size:52;
+	font-family:Harrington;
+	font-style:italic;
+	text-decoration:underline;
+}
+#tt
+{
+        background-blend-mode: luminosity;
+    background-image: url(border2.png);
+    background-size: cover;
+    background-position: center;
+    border-spacing:50px;
+    border-width: 10px;
+    border-color: burlywood;
+    border-top-style: groove;
+    border-left-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-radius: 2px;
+}
